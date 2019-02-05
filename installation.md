@@ -27,11 +27,11 @@ python
 
 ```bash
 $ cd ~/Downloads/Python-3.5.2
+ tar xvzf Python-3.5.2.tgz
 ```
 
 এরপর নিচের কমান্ডটি দিতে হবে,    
 
-```bash
 ./configure
 ```
 
